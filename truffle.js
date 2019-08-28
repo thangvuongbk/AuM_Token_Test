@@ -20,7 +20,7 @@ module.exports = {
     },      
     ropsten: {
       provider: function() {
-        return new PrivateKeyProvider(privateKey, "https://ropsten.infura.io/v3/c567e6deb0c74854b5b0b83758d3f09a")
+        return new PrivateKeyProvider(privateKey, "https://ropsten.infura.io/v3/2ee1e384369a4d12a910454f87fc824a")
       },
       network_id: 3,
       gas: 4000000      //make sure this gas allocation isn't over 4M, which is the max
