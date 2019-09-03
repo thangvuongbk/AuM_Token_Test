@@ -1,7 +1,7 @@
 App = {
   web3Provider: null,
   contracts: {},
-  account: '0xaf673d65A7Cc95d1009aE808DDE3d8E8cE46cFA9',
+  account: '0x116c50e9Bd8562E6e0E9a1c9bE161c43CC4034a3',
   loading: false,
   tokenPrice: 1000000000000000,
   tokensSold: 0,
